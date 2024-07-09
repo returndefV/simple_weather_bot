@@ -58,6 +58,11 @@ I am Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
     Instructions on how to run the bot locally: 
   </h3>
   <p>
-    - You ...
+    - First you need to download the project, you can do this using the command: git clone (iykuk)
+    - Then you need to create a virtual environment: python -m venv venv
+    - Run these commands in the terminal: python -m pip install -U pip setuptools
+                                          python -m pip install matplotlib
+    - Then run this command: pip3 install -r requirements.txt
+    - All that remains is to run the code.
   </p>
 </div>
