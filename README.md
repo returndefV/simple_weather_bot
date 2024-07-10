@@ -57,7 +57,10 @@ I am Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
   <h3>
     Instructions on how to run the bot locally: 
   </h3>
-      First you need to download the project, you can do this using the command: git clone (iykyk)
+  
+    - Create a new bot and get a token
+  
+    - You need to download the project, you can do this using the command: git clone (iykyk)
   
     - Then you need to create a virtual environment: python -m venv venv
     
