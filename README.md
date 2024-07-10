@@ -28,7 +28,7 @@ I am Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 - :seedling: My training consists, of course, primarily of studying technical articles, as well as writing my own small pet projects.
 
-- :mailbox:How to reach me: [![badge](https://img.shields.io/badge/-HH.ru-red?style=flat)](https://kazan.hh.ru/resume/13f2fec9ff0d2d63710039ed1f676b654c4752)
+- :mailbox:How to reach me: [![badge](https://img.shields.io/badge/-Telegram-blue?style=flat)](https://t.me/vladfull_dev)
 
 ---
 
@@ -57,17 +57,20 @@ I am Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
   <h3>
     Instructions on how to run the bot locally: 
   </h3>
+
+    - Get a token from the Open Weather website
   
     - Create a new bot and get a token
+
+    - Create a new folder
   
     - You need to download the project, you can do this using the command: git clone (iykyk)
+
+    - Create a ".env" file and write tokens there (like this: OPEN_WEATHER_TOKEN=write the token here)
   
     - Then you need to create a virtual environment: python -m venv venv
-    
-    - Run these commands in the terminal: python -m pip install -U pip setuptools
-                                          python -m pip install matplotlib
                                           
-    - Then run this command: pip3 install -r requirements.txt
+    - Then run this command: pip3 install -r requirements.txt (You should be in the "simple_weather_bot" folder)
     
     - All that remains is to run the code.
     
